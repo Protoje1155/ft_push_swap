@@ -3,7 +3,8 @@
 - The Push_swap project involves sorting a stack of integers using a limited set of operations. This project aims to deepen understanding of sorting algorithms, data structures, and algorithm optimization techniques.
 
 ## Objective
-- The primary objective of the Push_swap project is to implement a program that sorts a stack of integers in ascending order using two stacks and a limited set of operations. The program must minimize the number of operations performed to achieve the sorted stack.
+- The primary objective of the Push_swap project is to implement a program that sorts a stack of integers in ascending order using two stacks and a limited set of operations.
+- The program must minimize the number of operations performed to achieve the sorted stack.
 - A checker that checks if the stack is sorted and second stack is empty.
 
 ## Features
