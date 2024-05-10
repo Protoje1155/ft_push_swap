@@ -21,7 +21,7 @@ git clone <repository-url>
 ```
 2. Navigate to the push_swap directory:
 ```
-cd push_swap
+cd ft_push_swap
 ```
 3. Compile the program:
 ```
