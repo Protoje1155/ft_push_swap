@@ -3,12 +3,12 @@
 - The Push_swap project involves sorting a stack of integers using a limited set of operations. This project aims to deepen understanding of sorting algorithms, data structures, and algorithm optimization techniques.
 
 ## Objective
-- The primary objective of the Push_swap project is to implement a program that sorts a stack of integers in ascending order using two stacks and a limited set of operations.
-- The program must minimize the number of operations performed to achieve the sorted stack.
-- A checker that checks if the stack is sorted and second stack is empty.
+- The main goal of the Push_swap project is to implement a program that sorts a stack of integers in ascending order by using two stacks.
+- The program must minimize the number of operations performed in order to obtain the sorted stack.
+- A check program that checks whether the stack is sorted and the second stack is empty.
 
 ## Features
-- Utilizes two stacks and a limited set of operations, including push, swap, rotate, and reverse rotate.
+- Uses two stacks and a limited number of operations, including Push (pa, pb), Swap(sa, sb), Rotate(ra, rb, rr) and Reverse Rotate(rra, rrb, rrr).
 - Supports optimization techniques to minimize the number of operations required for sorting.
 - Handles error cases and provides informative error messages.
 
